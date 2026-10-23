@@ -19,3 +19,8 @@
 # MAGIC |Node type|4 cores|
 # MAGIC |Auto termination|30 minutes|
 # MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC Tento task môžem kľudne preskočiť
